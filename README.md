@@ -31,6 +31,6 @@ and <sub>then</sub> <strong> <em>it fall</em></strong>
  <video controls width="320" height="240" >
   <source src="Jito.mp4" type="video/mp4">
  </video>
- <img src="J&R.jpg"width="288" height="290">
+ <img src="J&R.jpg"width="295" height="290">
 </body>
 </html>
