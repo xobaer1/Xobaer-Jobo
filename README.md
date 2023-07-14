@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<title></title>
+<title>Jobo</title>
 </head>
 <body background="/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp 
 Images/IMG-20230601-WA0001.jpg">
