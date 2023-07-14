@@ -26,8 +26,10 @@ and <sub>then</sub> <strong> <em>it fall</em></strong>
 <br> <font color="purple"size="50"><em><ins>prey to a lion.</ins></em>
 </p>
  <video controls width="320" hight="240" >
-<source src="1.Introduction - IELTS Course by Munzereen Shahid.mp4" type="video/mp4"><br>
-<source src="Jito.mp4" type="video/mp4">
+<source src="1.Introduction - IELTS Course by Munzereen Shahid.mp4" type="video/mp4">
+ </video>
+ <video>
+  <source src="Jito.mp4" type="video/mp4">
  </video>
 </body>
 </html>
