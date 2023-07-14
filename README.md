@@ -25,8 +25,8 @@ ICT Contain <sub>zero</sub>to<sup>one</sup>
 and <sub>then</sub> <strong> <em>it fall</em></strong>
 <br> <font color="purple"size="50"><em><ins>prey to a lion.</ins></em>
 </p>
- <video controls >
-<source src="1.Introduction - IELTS Course by Munzereen Shahid.mp4">
+ <video controls width="250" hight="100" >
+<source src="1.Introduction - IELTS Course by Munzereen Shahid.mp4" type="video/mp4">
 </video>
 </body>
 </html>
