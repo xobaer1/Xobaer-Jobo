@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body bgcolor="#ff0000">
+<body bgcolor="red">
 <br>
 <p>
 <font color="Fuchsia">
