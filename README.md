@@ -95,7 +95,7 @@ b<sub>1</sub>+3a<sub>1</sub>b<sub>1</sub><sup>2</sup>
 </ol></td>
 </form>
 <p>
-<img src="/storage/emulated/0/DCIM/Facebook/FB_IMG_1666614414458.jpg"border="30"title="⚠️Jobo"width="240"height="230">
+<img src="Jubayar.jpg"border="30"title="⚠️Jobo"width="240"height="230">
 </p>
 <p>
 <table border="1">
