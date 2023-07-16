@@ -10,6 +10,9 @@
 </marquee>
 </p>
 <hr>
+<br>
+<button onclick="window.location.reload();">Reload</button>
+ <br>
  <video controls width="320" hight="240" >
 <source src="1.Introduction - IELTS Course by Munzereen Shahid.mp4" type="video/mp4">
  </video>
