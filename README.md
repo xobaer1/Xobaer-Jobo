@@ -18,5 +18,9 @@
  </video>
  <br>
  <img src="J&R.jpg" width="295" height="290">
+ <form>
+ comments: <textarea
+rows="3.5"cols="42"></textarea>
+ </form>
 </body>
 </html>
