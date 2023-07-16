@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body bgcolour="#ff0000">
+<body background="redp.jpg">
 <hr>
  <p>
  <marquee scrollamount="9">
