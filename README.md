@@ -11,6 +11,10 @@
 </p>
 <hr>
 <br>
+<button>
+ Reload page 
+</button>
+<br>
 <button onclick="window.location.reload();">Reload</button>
  <br>
  <video controls width="320" hight="240" >
