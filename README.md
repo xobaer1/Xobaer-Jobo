@@ -21,6 +21,8 @@
  <form>
  comments: <textarea rows="3.5"cols="42">
  </textarea>
+  <br>
+  <br>
   <input type="submit" value="SUBMIT">
  </form>
 </body>
