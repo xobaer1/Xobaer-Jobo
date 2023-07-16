@@ -1,6 +1,78 @@
 <html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
+<style>
+
+    /* Source COde Link In Description */
+    .container{
+        display: grid;
+        place-items: center;
+    }
+    .group-menu{
+        cursor: pointer;
+    }
+   .dot{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 4px;
+   }
+  .frame1{
+    visibility: hidden;
+  }
+  .frame1 .info{
+    font-size: 20px;
+    color: white;
+    border-bottom: 1px solid white;
+    padding-top: 13px;
+    cursor: pointer;
+  }
+  .frame1 .info:hover{
+    background-color: #363333;
+  }
+  .frame1 .info span{
+    margin-left: 10px;
+  }
+   .style{
+    width: 200px;
+    height: 300px;
+    background-color: #111;
+    margin-top: 5px;
+    margin-left: -180px;
+    border-radius: 10px;
+   }
+
+   .style2{
+    width: 150px;
+    height: 150px;
+    background-color: #111;
+    margin-left: 165px;
+    margin-top: -75px;
+    z-index: 999;
+    border-radius: 10px;
+   }
+   .frame2{
+    visibility: hidden;
+   }
+   .frame2 .setting-item{
+    color: white;
+    font-size: 20px;
+    padding: 6px;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+   }
+
+   .frame2 .setting-item:hover{
+    background-color: #363333;
+   }
+
+</style>
 <body background="redp.jpg">
 <hr>
  <p>
