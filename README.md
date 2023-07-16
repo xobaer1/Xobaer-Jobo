@@ -5,7 +5,7 @@
 <hr>
  <p>
  <marquee scrollamount="9">
-<font color="red" size="90">This is a website </font>
+<font color="#ff00ff" size="90">This is a website </font>
 
 </marquee>
 </p>
