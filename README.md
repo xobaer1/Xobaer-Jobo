@@ -19,8 +19,10 @@
  <br>
  <img src="J&R.jpg" width="295" height="290">
  <form>
- comments: <textarea
-rows="3.5"cols="42"></textarea>
+ comments: <textarea rows="3.5"cols="42">
+  
+ </textarea>
+  <input type="submit" value="SUBMIT">
  </form>
 </body>
 </html>
