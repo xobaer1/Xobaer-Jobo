@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body bgcolor="red">
+<body background="J&R.jpg">
 <p>
  <marquee scrollamount="9">
 <font color="red" size="90">This is a website </font>
