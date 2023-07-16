@@ -74,6 +74,55 @@
 
 </style>
 <body background="redp.jpg">
+    <div class="container">
+    <div class="group-menu" onclick="fun()">
+      <div class="dot"></div>
+      <div class="dot"></div>
+      <div class="dot"></div>
+    </div>
+    <!-- end group-menu -->
+
+    <div class="frame1" id="frame1">
+     <div class="info"><span>new</span></div>
+     <div class="info"><span>history</span></div>
+     <div class="info"><span>download</span></div>
+     <div class="info"><span>view</span></div>
+     <div class="info"><span>print</span></div>
+     <div class="info"><span>bookmark</span></div>
+     <div class="info" onclick="Setting()"><span>setting</span></div>
+     <div class="info" onclick="remove()"><span>exit</span></div>
+    </div>
+        <!-- frame1 class end -->
+
+
+    <div class="frame2" id="frame2">
+        <div class="setting-item">DarkMode</div>
+        <div class="setting-item">clear browser</div>
+        <div class="setting-item">Logout</div>
+        <div class="setting-item">Create Shortcut</div>
+    </div>
+    
+ </div>
+  <!--end container class  -->
+
+  <script>
+    function fun(){
+        document.getElementById("frame1").style.visibility="visible";
+        document.getElementById("frame1").classList.add("style");
+
+     }
+
+     function remove(){
+        document.getElementById("frame1").classList.remove("style");
+        document.getElementById("frame1").style.visibility="hidden";
+        document.getElementById("frame2").classList.remove("style2");
+     }
+
+     function Setting(){
+        document.getElementById("frame2").style.visibility="visible";
+        document.getElementById("frame2").classList.add("style2");
+     }
+  </script> 
 <hr>
  <p>
  <marquee scrollamount="9">
