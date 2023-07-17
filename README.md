@@ -109,7 +109,7 @@ b<sub>1</sub>+3a<sub>1</sub>b<sub>1</sub><sup>2</sup>
 </ol></td>
 </form>
 <p>
-<img src="Jubayar.jpg"border="30"title="⚠️Jobo"width="240"height="230">
+<img src="Jubayar.jpg"border="30"title="Jobo"width="340"height="240>
 </p>
 <p>
 <table border="1">
@@ -158,7 +158,7 @@ b<sub>1</sub>+3a<sub>1</sub>b<sub>1</sub><sup>2</sup>
 <h2 align="center">ড. মাহবুবুর রহমান মোল্লা কলেজ</h2> <table border="1"align="right"><tr><td> দিবা</td></tr></table>
 <br><h3 align="center">বর্ষ সমাপনী পরীক্ষা-২০২২</h3>
 
-<table border="1">
+<table bgcolor="green" border="1">
 <caption>শ্রেনিঃএকাদশ<br><table border="1"align="center"><tr><td>সময়সূচি</td></tr></table></caption>
 <tr><th>পরীক্ষার <br>তারিখ ও বার</th><th>বিষয় </th>
 <th> বিষয় কোড</th><th>সময়</th></tr>
