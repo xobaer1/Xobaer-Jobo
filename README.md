@@ -25,7 +25,7 @@
   <source src="Jito.mp4" type="video/mp4">
  </video>
  <br>
- <img src="J&R.jpg" width="295" height="290">
+ <img src="J&R.jpg" width="350" height="290">
  <br>
  <img src="Carp.jpg" width="320"height="240">
  <br>
