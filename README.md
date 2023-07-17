@@ -6,7 +6,7 @@
 </head>
     <body background="redp.jpg"> 
 <hr>
- <marquee scrollamount="99">
+ <marquee scrollamount="9">
 <font color="yellow" size="90">This is a website </font>
 </marquee>
 <hr>
