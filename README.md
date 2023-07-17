@@ -27,7 +27,7 @@
  <br>
  <img src="J&R.jpg" width="295" height="290">
  <br>
- <img src="Carp.jpg width="320 height="240">
+ <img src="Carp.jpg" width="320"height="240">
  <br>
  <form>
  comments: <textarea rows="3.5"cols="42">
