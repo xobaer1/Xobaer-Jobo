@@ -27,7 +27,7 @@
 <font color="pink" size="5">We never pray for love</font>
 </dd>
 <dd> 
-<font color="red" size="7"> We just pray for Cars </font>
+<font color="red" size="6"> We just pray for Cars </font>
 -xobaer jobo
 </dd>
 
