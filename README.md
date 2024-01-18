@@ -118,7 +118,7 @@ b<sub>1</sub>+3a<sub>1</sub>b<sub>1</sub><sup>2</sup>
 </ol></td>
 </form>
 <p>
-<img src="Jubayar.jpg"border="30"title="Jobo"width="390"height="450>
+<img src="Jubayar.jpg" border="30"title="Jobo" width="390" height="450">
 </p>
 <p>
 <table border="1">
