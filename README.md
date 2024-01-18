@@ -21,6 +21,7 @@
  <video controls width="320" hight="240" >
 <source src="1.Introduction - IELTS Course by Munzereen Shahid.mp4" type="video/mp4">
  </video>
+        <img src="Jubauarahamed.jpg" width="250" height="350">
  <video controls width="320" height="240" >
   <source src="Jito.mp4" type="video/mp4">
  </video>
