@@ -5,11 +5,14 @@
     </title>
 </head>
     <body bgcolor="#DAF7A6"> 
-
+<table>
+    <tr><
  <marquee scrollamount="9">
 <font color="yellow" size="90">This is a website </font>
 </marquee>
-<hr>
+    </tr>
+        </table>
+        
 <p align="center">
 <br>
 <button onclick="window.location.reload();">Reload</button>
