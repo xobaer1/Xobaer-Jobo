@@ -4,7 +4,7 @@
         Jobo
     </title>
 </head>
-    <body bgcolor="#800000"> 
+    <body bgcolor="#DAF7A6"> 
 
  <marquee scrollamount="9">
 <font color="yellow" size="90">This is a website </font>
