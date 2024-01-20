@@ -6,10 +6,12 @@
 </head>
     <body bgcolor="#DAF7A6"> 
 <table>
-    <tr><
+    <tr>
+        <td>
  <marquee scrollamount="9">
 <font color="yellow" size="90">This is a website </font>
 </marquee>
+        </td>
     </tr>
         </table>
         
