@@ -4,7 +4,7 @@
         Jobo
     </title>
 </head>
-    <body bgcolor="#DAF7A6"> 
+    <body bgcolor="pink"> 
 <table bgcolor="#ccccff">
         <td bgcolor="ccccff">
  <marquee scrollamount="9">
