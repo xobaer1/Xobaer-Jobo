@@ -169,8 +169,16 @@ b<sub>1</sub>+3a<sub>1</sub>b<sub>1</sub><sup>2</sup>
 <br><h3 align="center">বর্ষ সমাপনী পরীক্ষা-২০২২</h3>
 
 <table bgcolor="green" border="1">
-<caption>শ্রেনিঃএকাদশ<br><table border="1"align="center"><tr><td>সময়সূচি</td></tr></table></caption>
-<tr><th>পরীক্ষার <br>তারিখ ও বার</th><th>বিষয় </th>
+<caption>শ্রেনিঃএকাদশ<br>
+    <tr border="1"align="center">
+    </tr>
+    <tr>
+        <td>সময়সূচি</td>
+</tr>
+
+</caption>
+<tr>
+    <th>পরীক্ষার <br>তারিখ ও বার</th><th>বিষয় </th>
 <th> বিষয় কোড</th><th>সময়</th></tr>
 <tr><td>১০/১০/২০২২<br>(সোমবার)</td>
 <td>ইরেজি ১ম পত্র</td><td>১০৭</td><td>১ঃ৩০-৪ঃ৩০</td>
