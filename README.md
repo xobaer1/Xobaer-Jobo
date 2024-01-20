@@ -39,7 +39,7 @@
  <br>
  <img src="J&R.jpg" width="350" height="290">
  <br>
- <img src="Jubayar.jpg" width="240" height="320">
+ <img src="Jubayar.jpg" width="260" height="340">
  <br>
  <form>
  comments: <textarea rows="3.5"cols="42">
