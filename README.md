@@ -165,25 +165,21 @@ b<sub>1</sub>+3a<sub>1</sub>b<sub>1</sub><sup>2</sup>
 <dt>Xiaomi</dt><br>
 <dd>this is a Company</dd><br>
 <dt>Apple</dt><br>
-<dd>it’s one of the  biggest company of the whole world</dd><br>
+<dd>it’s one of the  biggest company of the whole world
+</dd>
+    <br>
 </dl>
 <hr><hr><hr>
     
 <h2 align="center">ড. মাহবুবুর রহমান মোল্লা কলেজ
 </h2>
-<table border="1"align="right">
-    <tr>
-        <td> দিবা
-        </td>
-    </tr>
-</table>
 <br>
-
 <h3 align="center">বর্ষ সমাপনী পরীক্ষা-২০২২
 </h3>
 
 <table bgcolor="green" border="1">
-<caption>শ্রেনিঃএকাদশ<br>
+<caption>শ্রেনিঃএকাদশ
+    <br>
     <tr border="1"align="center">
 
         <td>সময়সূচি
